@@ -74,29 +74,31 @@
 
 
 
-kocha =input("ko'changizni kiriting:\n<<<")
-mahalla =input("mahallangizni kiriting:\n<<<")
-tuman = input("tumaningizni kiriting:\n<<<")
-viloyat = input("Viloyatingizni kiriting:\n<<<")
-print(f"{kocha} ko'chasi, {mahalla} mahallasi,\n {tuman} tumani, {viloyat} viloyati.")
+# kocha =input("ko'changizni kiriting:\n<<<")
+# mahalla =input("mahallangizni kiriting:\n<<<")
+# tuman = input("tumaningizni kiriting:\n<<<")
+# viloyat = input("Viloyatingizni kiriting:\n<<<")
+# print(f"{kocha} ko'chasi, {mahalla} mahallasi,\n {tuman} tumani, {viloyat} viloyati.")
 
 
 
 
-kocha =input("ko'changizni kiriting:\n<<<")
-mahalla =input("mahallangizni kiriting:\n<<<")
-tuman = input("tumaningizni kiriting:\n<<<")
-viloyat = input("Viloyatingizni kiriting:\n<<<")
-print(f"{kocha} ko'chasi, {mahalla} mahallasi,\n {tuman} tumani, {viloyat} viloyati.")
+# kocha =input("ko'changizni kiriting:\n<<<")
+# mahalla =input("mahallangizni kiriting:\n<<<")
+# tuman = input("tumaningizni kiriting:\n<<<")
+# viloyat = input("Viloyatingizni kiriting:\n<<<")
+# print(f"{kocha} ko'chasi, {mahalla} mahallasi,\n {tuman} tumani, {viloyat} viloyati.")
 
 
 
-kocha =input("ko'changizni kiriting:\n<<<")
-mahalla =input("mahallangizni kiriting:\n<<<")
-tuman = input("tumaningizni kiriting:\n<<<")
-viloyat = input("Viloyatingizni kiriting:\n<<<")
-print(f"{kocha} ko'chasi, {mahalla} mahallasi,\n {tuman} tumani, {viloyat} viloyati.")
+# kocha =input("ko'changizni kiriting:\n<<<")
+# mahalla =input("mahallangizni kiriting:\n<<<")
+# tuman = input("tumaningizni kiriting:\n<<<")
 
+
+
+# viloyat = input("Viloyatingizni kiriting:\n<<<")
+# print(f"{kocha} ko'chasi, {mahalla} mahallasi,\n {tuman} tumani, {viloyat} viloyati.")
 
 
 
