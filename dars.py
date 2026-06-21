@@ -102,19 +102,40 @@
 
 
 
-a = 20
-b = 5.5
-temp = 36.6
-print(temp)
+# a = 20
+# b = 5.5
+# temp = 36.6
+# print(temp)
 
+# radius = 20
+# PI = 3.14159
+# diametr = 2*radius
+# print("Aylana uzunligi=", PI*diametr)
 
+# ism = "Jobir"
+# yosh = 25
+# xabar = ism + ' ' + str(yosh) + ' yoshda'
+# print(xabar)
 
+# t_yil = int(input("Tug'ilgan yilingizni kiriting: "))
+# yosh = 2026-t_yil
+# print("Siz ", yosh , "yoshda ekansiz!")
 
+# raqam = int(input("Istalgan raqam kiriting: "))
+# kvadrat = raqam**2
+# kub = raqam**3
+# print(raqam, "ning kvadrati", kvadrat, "ga teng\n", raqam, "ning kubi", kub, "ga teng" )
 
+# yosh = int(input("Yoshingiz nechada: "))
+# t_yil = 2026-int(yosh)
+# print("Siz ", t_yil, "yilda yug'ilgansiz")
 
-
-
-
+# son1 = float(input("Birinchi sonni kiriting: "))
+# son2 = float(input("Ikkinchi sonni kiriting: "))
+# print("son1+son2=", son1+son2)
+# print("son1-son2=", son1-son2)
+# print("son1/son2=", son1/son2)
+# print("son1*son2=", son1*son2)
 
 
 
